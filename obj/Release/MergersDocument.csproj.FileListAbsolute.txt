@@ -1,0 +1,15 @@
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\bin\Release\MergersDocument.exe.config
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\bin\Release\MergersDocument.exe
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\bin\Release\MergersDocument.pdb
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.csprojAssemblyReference.cache
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.csproj.ResolveComReference.cache
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.Form1.resources
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.Properties.Resources.resources
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.exe
+C:\Users\alpag\source\repos\MergersDocument\MergersDocument\obj\Release\MergersDocument.pdb
