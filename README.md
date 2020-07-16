@@ -1,4 +1,4 @@
-# Mergers Document
+## Mergers Document
 
 The project provides an individual merger's and acquisition in the semi conductor industry
 
