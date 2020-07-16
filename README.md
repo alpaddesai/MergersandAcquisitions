@@ -8,3 +8,6 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 
 ## Front Page
 ![image](image.png)
+
+## Executive summary
+![image](image1.png)
