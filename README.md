@@ -72,3 +72,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Pricer per share APV
 ![image](image21.png)
 
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
