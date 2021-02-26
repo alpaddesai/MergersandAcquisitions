@@ -25,7 +25,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](image5.png)
 
 ## APV 
-![image](image6.png}
+![image](image6.png)
 
 ## APV
 ![image](image7.png)
