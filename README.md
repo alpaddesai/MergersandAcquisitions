@@ -72,4 +72,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Pricer per share APV
 ![image](image21.png)
 
+## Ethics and Excellence
+!image](EthicsandExcellence.png)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/PowerandInfluentialSkills
