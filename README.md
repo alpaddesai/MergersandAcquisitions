@@ -12,7 +12,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Executive summary
 ![image](image1.png)
 
-## MicroSemi company overview
+## Micro Semi company overview
 ![image](image2.png)
 
 ## Linear Technology Company Overview and business strategy
@@ -24,10 +24,10 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Business plan valuations
 ![image](image5.png)
 
-## APV 
+## Adjusted Present Valuation 
 ![image](image6.png)
 
-## APV
+## Adjusted Present Valuation 
 ![image](image7.png)
 
 ## Entity valuations
@@ -42,19 +42,19 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Financing and negotiation strategy
 ![image](image11.png)
 
-## CAPM model 
+## Capital Asset Pricing Model 
 ![image](image12.png)
 
-## CAPM model 
+## Capital Asset Pricing Model 
 ![image](image13.png)
 
-## CAPM model
+## Capital Asset Pricing Model 
 ![image](image14.png)
 
-## APV standalone
+## Adjusted Present Valuation  standalone
 ![image](image15.png)
 
-## APV standalone
+## Adjusted Present Valuation  standalone
 ![image](image16.png)
 
 ## Market power synergy
@@ -63,7 +63,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Negotiation strategy
 ![image](image18.png)
 
-## DCF equity
+## Discounted Cash Flow equity
 ![image](image19.png)
 
 ## Marekt share synergy
