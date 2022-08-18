@@ -73,7 +73,7 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ![image](image21.png)
 
 ## Synposys
-![image](Cover Letter Market Research Opportunity at Synopsys.pdf)
+![image](CoverLetterMarketResearchOpportunityatSynopsys.pdf)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
