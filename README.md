@@ -72,6 +72,9 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Pricer per share APV
 ![image](image21.png)
 
+## Synposys
+![image](Cover Letter Market Research Opportunity at Synopsys.pdf)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
