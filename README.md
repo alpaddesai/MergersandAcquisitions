@@ -78,4 +78,6 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/PowerandInfluentialSkills
