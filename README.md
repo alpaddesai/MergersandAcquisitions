@@ -75,6 +75,9 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 ## Synposys
 ![image](corporatedevelopmentanalysis.jpg)
 
+## Exam
+![image](CFAExam.jpg)
+
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
