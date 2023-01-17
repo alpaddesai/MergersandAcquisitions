@@ -80,4 +80,4 @@ All images are either custom by Alpa D Desai or a reference name is provided.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/PowerandInfluentialSkills
+Advanced knowledge : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
